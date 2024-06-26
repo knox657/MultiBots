@@ -1,10 +1,10 @@
 {   
     "bot1": {
-        "source": "https://github.com/<GitHub Username>/<repo1>.git",
+        "source": "https://github.com/knox657/Auto-simple.git",
         "env": {
-            "TOKEN": ""
+            "URL": "https://auto-simple.onrender.com"
         },
-        "run": ""
+        "run": "python3 bot.py"
     },
     "bot2": {
         "source": "https://github.com/<GitHub Username>/<repo2>.git",

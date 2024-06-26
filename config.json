@@ -1,8 +1,8 @@
 {   
     "bot1": {
-        "source": "https://github.com/knox657/Auto-simple.git",
+        "source": "https://github.com/Mrblackgodd/VJ-File-Store.git",
         "env": {
-            "URL": "https://auto-simple.onrender.com"
+            "URL": "https://multibots-fhag.onrender.com"
         },
         "run": "python3 bot.py"
     }

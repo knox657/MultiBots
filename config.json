@@ -4,6 +4,6 @@
         "env": {
             "URL": "https://purplestreambot-mrblackgod.koyeb.app/"
         },
-        "run": "gunicorn app:app & python3 bot.py"
+        "run": "python3 bot.py"
     }
 }

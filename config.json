@@ -4,6 +4,6 @@
         "env": {
             "URL": "https://multibots-fhag.onrender.com"
         },
-        "run": "python3 bot.py"
+        "run": "gunicorn app:app & python3 bot.py"
     }
 }

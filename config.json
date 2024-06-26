@@ -2,7 +2,7 @@
     "bot1": {
         "source": "https://github.com/Mrblackgodd/VJ-File-Store.git",
         "env": {
-            "URL": "https://multibots-fhag.onrender.com"
+            "URL": "https://purplestreambot-mrblackgod.koyeb.app/"
         },
         "run": "gunicorn app:app & python3 bot.py"
     }
